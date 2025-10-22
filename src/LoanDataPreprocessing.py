@@ -1,5 +1,6 @@
 # Author: Taashfeen Ashraf
 # Date last modified: 22/11/2024
+# Coursework Task 1
 
 # Step 0: Import Libraries
 import pandas as pd  # Import Pandas for data manipulation and analysis
